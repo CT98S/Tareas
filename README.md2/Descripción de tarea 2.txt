@@ -1,0 +1,1 @@
+Para la solucion de la tarea #2, primncipalmente identifique que estaban pidiendo en el programa, verifique mi varaible y posteriosmente utilice Switch Case para que el programa fuera mas corto y preciso. Por supuesto siempre utilizando Console log y break.
